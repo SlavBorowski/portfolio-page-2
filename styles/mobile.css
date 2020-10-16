@@ -1,0 +1,55 @@
+/* Set responsive design properties */
+@media only screen and (max-width: 960px) {
+  
+  /* Change navbar to horizontal position and full-screen width */
+  .navbar{
+
+    flex-direction: row;
+    width: 100%;
+    height: 65px;
+    margin: 0px;
+    background:rgb(235,189,141);
+    z-index: 1;
+    border-radius: 0px;
+    
+
+  }
+
+  /* Main and Body moved to left edge and adjust width to fit screen */
+  main{
+
+   position: static;
+   max-width: 80%;
+   width: 90%;
+   margin: 0px auto;
+
+  }
+
+  body{
+
+    margin: 0px;
+    flex-direction: column;
+
+  }
+
+  /* Mov busines card component to lef edge and no longer fixed in position */
+  aside{
+
+    position: static;
+    margin: 90px auto 35px;
+    min-width: 95%;
+    max-width: 95%;
+    padding-bottom: 40%;
+
+  }
+
+  /* Ensure portrait doesn't grow too big with screen size changes */
+  #profile{
+  
+  
+    max-width: 130px;
+    
+    
+  }
+
+}

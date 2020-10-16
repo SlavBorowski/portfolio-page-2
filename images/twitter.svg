@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="39.007999"
+   viewBox="0 0 48 39.007999"
+   version="1.1"
+   id="svg3951"
+   sodipodi:docname="twitter.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata3957">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3955" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3734"
+     inkscape:window-height="2032"
+     id="namedview3953"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="74.5"
+     inkscape:cx="24"
+     inkscape:cy="19.504"
+     inkscape:window-x="106"
+     inkscape:window-y="54"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3951" />
+  <path
+     d="M 48,4.618 C 46.234,5.402 44.336,5.93 42.344,6.168 44.378,4.95 45.94,3.02 46.674,0.72 44.772,1.848 42.664,2.668 40.42,3.11 38.626,1.196 36.064,0 33.232,0 26.874,0 22.202,5.932 23.638,12.09 15.456,11.68 8.2,7.76 3.342,1.802 0.762,6.228 2.004,12.018 6.388,14.95 4.776,14.898 3.256,14.456 1.93,13.718 c -0.108,4.562 3.162,8.83 7.898,9.78 -1.386,0.376 -2.904,0.464 -4.448,0.168 1.252,3.912 4.888,6.758 9.2,6.838 C 10.44,33.75 5.224,35.2 0,34.584 4.358,37.378 9.536,39.008 15.096,39.008 33.38,39.008 43.71,23.566 43.086,9.716 45.01,8.326 46.68,6.592 48,4.618 Z"
+     id="path3949"
+     inkscape:connector-curvature="0"
+     style="stroke-width:2" />
+</svg>

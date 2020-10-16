@@ -1,0 +1,10 @@
+/* global styles */
+@import "./global.css";
+
+/* components */
+@import "./navbar.css";
+@import "./form.css";
+@import "./profilecard.css";
+
+/* screen sizes */
+@import "./mobile.css";

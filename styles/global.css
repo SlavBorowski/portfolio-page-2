@@ -1,0 +1,96 @@
+/* Set font for heading on each page */
+h2{
+
+  font-family: 'Gafata', sans-serif;
+
+}
+
+/* Set properties for body including nackground image */
+body{
+
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 100px;
+  margin-left: 0px;
+  margin-right: 5%;
+
+  background-color: #EBBD8D;
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  }
+
+/* Set properties and position of main container on each page */
+main{
+
+  max-width: 60%;
+  padding: 20px;  
+  margin-top: 25px;
+  margin-right: 5%;
+  margin-left: 530px;
+
+  color: #FAFADA;
+  background: rgba(0,0,0,0.6);
+
+  border-radius: 15px;
+
+  position: static;
+    
+}
+
+/* Set size of images used in main articles */
+main img{
+
+max-width: 90%;
+margin: 0px 5%;
+
+}
+
+/* Set propertise of articles */
+article{
+
+  margin: 15px 0px;
+  padding: 10px;
+  border: 3px solid #EBBD8D;
+  border-radius: 15px;
+
+}
+
+/* Set colour and properties of github icons in project articles */
+.icon2{
+
+  filter: invert(93%) sepia(4%) saturate(1577%) hue-rotate(26deg) brightness(114%) contrast(96%);
+  width: 44px;
+
+}
+
+/* Use div to position footer at bottom of screen */
+div{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+/* Set footer properties */
+footer{
+
+  font-family: 'Montserrat', sans-serif;
+  color: #EBBD8D;
+  background: black;
+  border-radius: 7px;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 50px;
+  margin-top: 25%;
+  opacity: 0.4;
+
+}
+
+
+
+

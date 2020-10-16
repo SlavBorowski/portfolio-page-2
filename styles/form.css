@@ -1,0 +1,68 @@
+/* Set properties of all form components on contact page */
+form{
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+label{
+
+  font-weight: bold;
+  margin: 5px 0px;
+
+}
+
+input{
+
+  border: 2px solid #EBBD8D;
+  border-radius: 5px;
+  background: #745A4F;
+  color: #FAFADA;
+  height: 30px;
+  margin: 5px;
+
+}
+
+textarea{
+
+  border: 2px solid #EBBD8D;
+  border-radius: 5px;
+  background: #745A4F;
+  color: #FAFADA;
+  height: 100px;
+  margin: 5px;
+
+}
+
+button{
+
+  background: #EBBD8D;
+  color: #745A4F;
+  border-radius: 5px;
+  height: 30px;
+  width: 150px;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 5px auto;
+
+
+}
+
+/* Set colour and size of svg icons */
+.icon3 img{
+
+  filter: invert(93%) sepia(4%) saturate(1577%) hue-rotate(26deg) brightness(114%) contrast(96%);
+  width: 44px;
+  margin: 30px 0px;
+
+}
+
+/* Set spacing between lare icons on contact page*/
+.social{
+
+  display: flex;
+  justify-content: space-between;
+
+}

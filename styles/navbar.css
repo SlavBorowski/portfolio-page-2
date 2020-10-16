@@ -1,0 +1,48 @@
+/* Set properties and position of navbar */
+.navbar{
+
+  font-family: 'Gafata', sans-serif;
+  font-size: 0.75em;
+  background:rgba(235,189,141,0.4);
+  width: 65px;
+  height: 325px;
+  margin-top: 25px;
+  margin-left: 90px;
+
+  border-radius: 7px;
+  
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  position: fixed;
+ 
+  
+
+}
+
+/* Set properties of navbar buttons */
+.navbar a{
+
+  width: 45px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  
+  text-align: center;
+  padding: 10px 10px;
+  color: #524038;
+  text-decoration: none;
+  font-weight: bold;
+
+}
+
+/* Set colour and padding of navbar icons */
+.navbar a img{
+
+  padding: 5px;
+  filter: invert(24%) sepia(35%) saturate(342%) hue-rotate(333deg) brightness(93%) contrast(90%);
+
+}
